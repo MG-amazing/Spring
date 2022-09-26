@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SpringDome20" />
+        <module name="SpringDome21" />
+        <module name="SpringDome22" />
+        <module name="SpringDome23" />
+        <module name="SpringDome24" />
+        <module name="SpringDome25" />
+        <module name="SpringDome10" />
+        <module name="SpringDome19" />
+        <module name="SpringDome9" />
+        <module name="SpringDome8" />
+        <module name="SpringDome7" />
+        <module name="SpringDome11" />
+        <module name="SpringDome6" />
+        <module name="SpringDome12" />
+        <module name="SpringDome5" />
+        <module name="SpringDome13" />
+        <module name="SpringDome4" />
+        <module name="SpringDome14" />
+        <module name="SpringDome3" />
+        <module name="SpringDome15" />
+        <module name="SpringDome2" />
+        <module name="SpringDome16" />
+        <module name="SpringDome1" />
+        <module name="SpringDome17" />
+        <module name="SpringDome18" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Spring-MyBatis" target="8" />
+      <module name="Spring-MyBatis-Dome1" target="8" />
+      <module name="SpringDome1" target="1.5" />
+      <module name="SpringDome10" target="1.5" />
+      <module name="SpringDome11" target="1.5" />
+      <module name="SpringDome12" target="1.5" />
+      <module name="SpringDome13" target="1.5" />
+      <module name="SpringDome14" target="1.5" />
+      <module name="SpringDome15" target="1.5" />
+      <module name="SpringDome16" target="1.5" />
+      <module name="SpringDome17" target="1.5" />
+      <module name="SpringDome18" target="1.5" />
+      <module name="SpringDome19" target="1.5" />
+      <module name="SpringDome2" target="1.5" />
+      <module name="SpringDome20" target="1.5" />
+      <module name="SpringDome21" target="1.5" />
+      <module name="SpringDome22" target="1.5" />
+      <module name="SpringDome23" target="1.5" />
+      <module name="SpringDome24" target="1.5" />
+      <module name="SpringDome25" target="1.5" />
+      <module name="SpringDome3" target="1.5" />
+      <module name="SpringDome4" target="1.5" />
+      <module name="SpringDome5" target="1.5" />
+      <module name="SpringDome6" target="1.5" />
+      <module name="SpringDome7" target="1.5" />
+      <module name="SpringDome8" target="1.5" />
+      <module name="SpringDome9" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/SpringDome1/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDome2/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDome4/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDome5/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDome6/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDome7/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDome8/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDome9/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDome10/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDome11/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDome12/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDome13/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDome14/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-MyBatis/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-MyBatis-Dome1/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-basic/SpringDome14/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDome3/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDome15/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDome16/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDome17/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDome18/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDome19/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDome20/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDome21/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDome22/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDome23/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDome24/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDome25/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="corretto-1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

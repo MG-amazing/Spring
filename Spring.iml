@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Spring Application Context" removed="false">
+          <file>file://$MODULE_DIR$/SpringDome11/src/main/resources/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/SpringDome10/target/classes/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/SpringDome5/src/main/resources/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/SpringDome8/target/classes/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/SpringDome3/target/classes/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/SpringDome6/target/classes/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/SpringDome2/target/classes/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/SpringDome2/src/main/resources/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/SpringDome7/src/main/resources/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/SpringDome9/target/classes/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/SpringDome4/src/main/resources/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/SpringDome7/target/classes/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/SpringDome9/src/main/resources/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/SpringDome6/src/main/resources/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/SpringDome8/src/main/resources/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/SpringDome10/src/main/resources/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/SpringDome1/target/classes/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/SpringDome1/src/main/resources/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/SpringDome3/src/main/resources/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/SpringDome4/target/classes/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/SpringDome11/target/classes/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/SpringDome5/target/classes/applicationContext.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
